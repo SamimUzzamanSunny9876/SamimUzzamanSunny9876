@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samim uzzaman sunny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samim uzzaman sunny" height="30" width="40" /></a>
-<a href="https://fb.com/samim uzzaman sunny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samim uzzaman sunny" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/samim-uzzaman-sunny-2355812ab/.sunny.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samim-uzzaman-sunny-2355812ab/.sunny.9" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/samim.sunny.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/samim.sunny.9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
