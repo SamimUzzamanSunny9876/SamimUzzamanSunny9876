@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FixMate, a full-stack service marketplace built with Next.js, TypeScript, Express, and MongoDB<br>👯 I’m looking to collaborate on full-stack web apps and open-source React/Next.js projects<br>🤝 I’m looking for help with scalable backend architecture, system design, and Cloud/DevOps<br>🌱 I’m currently learning Backend Systems, Data Structures & Algorithms, and AI Engineering<br>💬 Ask me about Next.js, React, TypeScript, JavaScript, Java, and C++<br>⚡ Fun fact: Huge football and cricket fan who enjoys debugging as much as matchday
+🔭 I’m currently working on full-stack service projects built with Next.js, TypeScript, Express, and MongoDB<br>👯 I’m looking to collaborate on full-stack web apps and open-source React/Next.js projects<br>🤝 I’m looking for help with scalable backend architecture, system design, and Cloud/DevOps<br>🌱 I’m currently learning Backend Systems, Data Structures & Algorithms, and AI Engineering<br>💬 Ask me about Next.js, React, TypeScript, JavaScript, Java, and C++<br>⚡ Fun fact: Huge football and cricket fan who enjoys debugging as much as matchday
 
 
 ## 🌐 Socials:
